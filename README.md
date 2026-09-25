@@ -28,8 +28,6 @@ The website contains the following pages:
 ## Part 1 Feedback and Improvements
 This Part 2 submission keeps the original Part 1 concept and improves the implementation without inventing lecturer feedback. If the exact Part 1 academic feedback is later provided, it can be inserted here.
 
-[INSERT ACTUAL PART 1 FEEDBACK HERE]
-
 ## Part 2 CSS Improvements
 The Part 2 implementation improves the website by:
 
@@ -56,13 +54,13 @@ Media queries used in the project include breakpoints around 900px and 700px to 
 The following testing notes were used during the Part 2 refinement process.
 
 ### Desktop Screenshot
-[INSERT DESKTOP SCREENSHOT HERE]
+
 
 ### Tablet Screenshot
-[INSERT TABLET SCREENSHOT HERE]
+
 
 ### Mobile Screenshot
-[INSERT MOBILE SCREENSHOT HERE]
+
 
 ## Changelog
 ### Part 2
