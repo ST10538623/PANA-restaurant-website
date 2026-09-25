@@ -54,13 +54,13 @@ Media queries used in the project include breakpoints around 900px and 700px to 
 The following testing notes were used during the Part 2 refinement process.
 
 ### Desktop Screenshot
-
+<img width="1542" height="966" alt="8F1A0A23-A30B-4827-AC06-FD3A9D9FB788" src="https://github.com/user-attachments/assets/d951461e-e4eb-45b0-822a-5f7240c5bd52" />
 
 ### Tablet Screenshot
-
+<img width="1078" height="1440" alt="06A53276-BA31-442D-AD04-B85084430471" src="https://github.com/user-attachments/assets/505c3a96-e12f-4d77-a372-ea7bd3a2a986" />
 
 ### Mobile Screenshot
-
+<img width="668" height="1440" alt="5B6BB04D-A44E-4777-85C0-E8A2C325C02B" src="https://github.com/user-attachments/assets/678664e5-036f-4ce5-a5c5-7ea991fec4df" />
 
 ## Changelog
 ### Part 2
